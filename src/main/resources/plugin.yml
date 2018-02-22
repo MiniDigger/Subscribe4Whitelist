@@ -1,0 +1,4 @@
+name: Subscribe4Whitelist
+version: 1.0-SNAPSHOT
+main: me.minidigger.subscribe4whitelist.Subscribe4Whitelist
+authors: [MiniDigger]

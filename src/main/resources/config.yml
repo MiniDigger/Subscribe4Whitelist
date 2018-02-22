@@ -1,0 +1,8 @@
+fetch-interval: 300
+patreon:
+  accessToken: ------
+twitch:
+  clientId: ------
+  clientSecret: ------
+  credential: ------
+  channelName: ------
